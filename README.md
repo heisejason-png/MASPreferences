@@ -9,3 +9,4 @@ You can find a Demo project at [MASPreferencesDemo](https://github.com/shpakovsk
 # License
 
 MASPreferences is licensed under the BSD license
+Created by Jason Scott Heise
